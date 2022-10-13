@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    background-color: gray;
+    color: blue;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    margin-left: 800px;
+    margin-top: 30px;
+}
+.hi{
+    padding-left: 30px;
+}
